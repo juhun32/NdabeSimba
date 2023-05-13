@@ -1,1 +1,1 @@
-Undergrad student studying python, java
+Undergrad student studying full-stack, AI/ML
