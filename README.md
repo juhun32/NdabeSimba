@@ -1,1 +1,1 @@
-<code>NOVA / GMU</code> student, major in Computer Science <br>
+<code>NOVA / GMU</code> student, majoring in Computer Science <br>
